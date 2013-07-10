@@ -1,8 +1,5 @@
 var fs = require('fs');
-
 var b = fs.readFileSync('index.html');
-
-
 
 var express = require('express');
 
